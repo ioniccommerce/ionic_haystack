@@ -3,7 +3,7 @@ name = "ionic-haystack"
 version = "0.1.0"
 description = "Ionic Commerce tool for Haystack"
 authors = ["Your Name <you@example.com>"]
-license =  {text = "MIT"}
+license =  "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
