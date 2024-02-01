@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ionic-haystack"
-version = "0.1.1"
+version = "0.1.2"
 description = "Ionic Commerce tool for Haystack"
 authors = ["Your Name <you@example.com>"]
 license =  "MIT"
