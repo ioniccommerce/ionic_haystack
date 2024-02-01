@@ -9,10 +9,12 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 Ionic-API-SDK = "^0.7.1"
+farm-haystack = "^1.24.0"
 
 [tool.poetry.group.dev.dependencies]
 black = "^24.1.1"
 pytest = "^8.0.0"
+ruff = "^0.1.15"
 
 [project.urls]
 "Homepage" = "https://ioniccommerce.com"
