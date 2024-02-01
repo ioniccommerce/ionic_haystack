@@ -3,11 +3,13 @@ name = "ionic-haystack"
 version = "0.1.2"
 description = "Ionic Commerce tool for Haystack"
 authors = ["Your Name <you@example.com>"]
-license =  "MIT"
 readme = "README.md"
+include = [
+    "LICENSE",
+]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.8,<4.0"
 Ionic-API-SDK = "^0.7.1"
 farm-haystack = "^1.24.0"
 
