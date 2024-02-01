@@ -59,7 +59,7 @@ class IonicShoppingTool(BaseComponent):
         )
 
         output = {
-            "documents": [
+            "results": [
                 product
                 for result in response.query_api_response.results
                 for product in result.products
